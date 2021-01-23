@@ -2037,39 +2037,40 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\serhat.aydus\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Incodeepth\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\serhat.aydus\\source\\repos\\MapperBenchmark\\Mapper\\Mapper.MapsterLibrary\\Mapper.MapsterLibrary.csproj",
+      "projectUniqueName": "C:\\Users\\Incodeepth\\Documents\\GitHub\\MapperBenchmark\\Mapper.MapsterLibrary\\Mapper.MapsterLibrary.csproj",
       "projectName": "Mapper.MapsterLibrary",
-      "projectPath": "C:\\Users\\serhat.aydus\\source\\repos\\MapperBenchmark\\Mapper\\Mapper.MapsterLibrary\\Mapper.MapsterLibrary.csproj",
-      "packagesPath": "C:\\Users\\serhat.aydus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\serhat.aydus\\source\\repos\\MapperBenchmark\\Mapper\\Mapper.MapsterLibrary\\obj\\",
+      "projectPath": "C:\\Users\\Incodeepth\\Documents\\GitHub\\MapperBenchmark\\Mapper.MapsterLibrary\\Mapper.MapsterLibrary.csproj",
+      "packagesPath": "C:\\Users\\Incodeepth\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Incodeepth\\Documents\\GitHub\\MapperBenchmark\\Mapper.MapsterLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\serhat.aydus\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\Incodeepth\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://nexusmaster01.odeontechnology.com/repository/nuget-group/": {}
+        "D:\\Nuget": {},
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\serhat.aydus\\source\\repos\\MapperBenchmark\\Mapper\\Mapper.Core\\Mapper.Core.csproj": {
-              "projectPath": "C:\\Users\\serhat.aydus\\source\\repos\\MapperBenchmark\\Mapper\\Mapper.Core\\Mapper.Core.csproj"
+            "C:\\Users\\Incodeepth\\Documents\\GitHub\\MapperBenchmark\\Mapper.Core\\Mapper.Core.csproj": {
+              "projectPath": "C:\\Users\\Incodeepth\\Documents\\GitHub\\MapperBenchmark\\Mapper.Core\\Mapper.Core.csproj"
             }
           }
         }
@@ -2104,7 +2105,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }

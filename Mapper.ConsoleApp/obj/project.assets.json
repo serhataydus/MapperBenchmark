@@ -6964,63 +6964,64 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\serhat.aydus\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Incodeepth\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\serhat.aydus\\source\\repos\\MapperBenchmark\\Mapper\\Mapper.ConsoleApp\\Mapper.ConsoleApp.csproj",
+      "projectUniqueName": "C:\\Users\\Incodeepth\\Documents\\GitHub\\MapperBenchmark\\Mapper.ConsoleApp\\Mapper.ConsoleApp.csproj",
       "projectName": "Mapper.ConsoleApp",
-      "projectPath": "C:\\Users\\serhat.aydus\\source\\repos\\MapperBenchmark\\Mapper\\Mapper.ConsoleApp\\Mapper.ConsoleApp.csproj",
-      "packagesPath": "C:\\Users\\serhat.aydus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\serhat.aydus\\source\\repos\\MapperBenchmark\\Mapper\\Mapper.ConsoleApp\\obj\\",
+      "projectPath": "C:\\Users\\Incodeepth\\Documents\\GitHub\\MapperBenchmark\\Mapper.ConsoleApp\\Mapper.ConsoleApp.csproj",
+      "packagesPath": "C:\\Users\\Incodeepth\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Incodeepth\\Documents\\GitHub\\MapperBenchmark\\Mapper.ConsoleApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\serhat.aydus\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\Incodeepth\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://nexusmaster01.odeontechnology.com/repository/nuget-group/": {}
+        "D:\\Nuget": {},
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\serhat.aydus\\source\\repos\\MapperBenchmark\\Mapper\\Mapper.AgileMapperLibrary\\Mapper.AgileMapperLibrary.csproj": {
-              "projectPath": "C:\\Users\\serhat.aydus\\source\\repos\\MapperBenchmark\\Mapper\\Mapper.AgileMapperLibrary\\Mapper.AgileMapperLibrary.csproj"
+            "C:\\Users\\Incodeepth\\Documents\\GitHub\\MapperBenchmark\\Mapper.AgileMapperLibrary\\Mapper.AgileMapperLibrary.csproj": {
+              "projectPath": "C:\\Users\\Incodeepth\\Documents\\GitHub\\MapperBenchmark\\Mapper.AgileMapperLibrary\\Mapper.AgileMapperLibrary.csproj"
             },
-            "C:\\Users\\serhat.aydus\\source\\repos\\MapperBenchmark\\Mapper\\Mapper.AutoMapperLibrary\\Mapper.AutoMapperLibrary.csproj": {
-              "projectPath": "C:\\Users\\serhat.aydus\\source\\repos\\MapperBenchmark\\Mapper\\Mapper.AutoMapperLibrary\\Mapper.AutoMapperLibrary.csproj"
+            "C:\\Users\\Incodeepth\\Documents\\GitHub\\MapperBenchmark\\Mapper.AutoMapperLibrary\\Mapper.AutoMapperLibrary.csproj": {
+              "projectPath": "C:\\Users\\Incodeepth\\Documents\\GitHub\\MapperBenchmark\\Mapper.AutoMapperLibrary\\Mapper.AutoMapperLibrary.csproj"
             },
-            "C:\\Users\\serhat.aydus\\source\\repos\\MapperBenchmark\\Mapper\\Mapper.Core\\Mapper.Core.csproj": {
-              "projectPath": "C:\\Users\\serhat.aydus\\source\\repos\\MapperBenchmark\\Mapper\\Mapper.Core\\Mapper.Core.csproj"
+            "C:\\Users\\Incodeepth\\Documents\\GitHub\\MapperBenchmark\\Mapper.Core\\Mapper.Core.csproj": {
+              "projectPath": "C:\\Users\\Incodeepth\\Documents\\GitHub\\MapperBenchmark\\Mapper.Core\\Mapper.Core.csproj"
             },
-            "C:\\Users\\serhat.aydus\\source\\repos\\MapperBenchmark\\Mapper\\Mapper.DTO\\Mapper.DTO.csproj": {
-              "projectPath": "C:\\Users\\serhat.aydus\\source\\repos\\MapperBenchmark\\Mapper\\Mapper.DTO\\Mapper.DTO.csproj"
+            "C:\\Users\\Incodeepth\\Documents\\GitHub\\MapperBenchmark\\Mapper.DTO\\Mapper.DTO.csproj": {
+              "projectPath": "C:\\Users\\Incodeepth\\Documents\\GitHub\\MapperBenchmark\\Mapper.DTO\\Mapper.DTO.csproj"
             },
-            "C:\\Users\\serhat.aydus\\source\\repos\\MapperBenchmark\\Mapper\\Mapper.Entity\\Mapper.Entity.csproj": {
-              "projectPath": "C:\\Users\\serhat.aydus\\source\\repos\\MapperBenchmark\\Mapper\\Mapper.Entity\\Mapper.Entity.csproj"
+            "C:\\Users\\Incodeepth\\Documents\\GitHub\\MapperBenchmark\\Mapper.Entity\\Mapper.Entity.csproj": {
+              "projectPath": "C:\\Users\\Incodeepth\\Documents\\GitHub\\MapperBenchmark\\Mapper.Entity\\Mapper.Entity.csproj"
             },
-            "C:\\Users\\serhat.aydus\\source\\repos\\MapperBenchmark\\Mapper\\Mapper.ExpressMapperLibrary\\Mapper.ExpressMapperLibrary.csproj": {
-              "projectPath": "C:\\Users\\serhat.aydus\\source\\repos\\MapperBenchmark\\Mapper\\Mapper.ExpressMapperLibrary\\Mapper.ExpressMapperLibrary.csproj"
+            "C:\\Users\\Incodeepth\\Documents\\GitHub\\MapperBenchmark\\Mapper.ExpressMapperLibrary\\Mapper.ExpressMapperLibrary.csproj": {
+              "projectPath": "C:\\Users\\Incodeepth\\Documents\\GitHub\\MapperBenchmark\\Mapper.ExpressMapperLibrary\\Mapper.ExpressMapperLibrary.csproj"
             },
-            "C:\\Users\\serhat.aydus\\source\\repos\\MapperBenchmark\\Mapper\\Mapper.Logic\\Mapper.Logic.csproj": {
-              "projectPath": "C:\\Users\\serhat.aydus\\source\\repos\\MapperBenchmark\\Mapper\\Mapper.Logic\\Mapper.Logic.csproj"
+            "C:\\Users\\Incodeepth\\Documents\\GitHub\\MapperBenchmark\\Mapper.Logic\\Mapper.Logic.csproj": {
+              "projectPath": "C:\\Users\\Incodeepth\\Documents\\GitHub\\MapperBenchmark\\Mapper.Logic\\Mapper.Logic.csproj"
             },
-            "C:\\Users\\serhat.aydus\\source\\repos\\MapperBenchmark\\Mapper\\Mapper.MapsterLibrary\\Mapper.MapsterLibrary.csproj": {
-              "projectPath": "C:\\Users\\serhat.aydus\\source\\repos\\MapperBenchmark\\Mapper\\Mapper.MapsterLibrary\\Mapper.MapsterLibrary.csproj"
+            "C:\\Users\\Incodeepth\\Documents\\GitHub\\MapperBenchmark\\Mapper.MapsterLibrary\\Mapper.MapsterLibrary.csproj": {
+              "projectPath": "C:\\Users\\Incodeepth\\Documents\\GitHub\\MapperBenchmark\\Mapper.MapsterLibrary\\Mapper.MapsterLibrary.csproj"
             },
-            "C:\\Users\\serhat.aydus\\source\\repos\\MapperBenchmark\\Mapper\\Mapper.TinyMapperLibrary\\Mapper.TinyMapperLibrary.csproj": {
-              "projectPath": "C:\\Users\\serhat.aydus\\source\\repos\\MapperBenchmark\\Mapper\\Mapper.TinyMapperLibrary\\Mapper.TinyMapperLibrary.csproj"
+            "C:\\Users\\Incodeepth\\Documents\\GitHub\\MapperBenchmark\\Mapper.TinyMapperLibrary\\Mapper.TinyMapperLibrary.csproj": {
+              "projectPath": "C:\\Users\\Incodeepth\\Documents\\GitHub\\MapperBenchmark\\Mapper.TinyMapperLibrary\\Mapper.TinyMapperLibrary.csproj"
             }
           }
         }
@@ -7055,7 +7056,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   },

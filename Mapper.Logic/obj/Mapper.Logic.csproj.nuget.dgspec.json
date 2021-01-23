@@ -1,39 +1,40 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\serhat.aydus\\source\\repos\\MapperBenchmark\\Mapper\\Mapper.Logic\\Mapper.Logic.csproj": {}
+    "C:\\Users\\Incodeepth\\Documents\\GitHub\\MapperBenchmark\\Mapper.Logic\\Mapper.Logic.csproj": {}
   },
   "projects": {
-    "C:\\Users\\serhat.aydus\\source\\repos\\MapperBenchmark\\Mapper\\Mapper.DTO\\Mapper.DTO.csproj": {
+    "C:\\Users\\Incodeepth\\Documents\\GitHub\\MapperBenchmark\\Mapper.DTO\\Mapper.DTO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\serhat.aydus\\source\\repos\\MapperBenchmark\\Mapper\\Mapper.DTO\\Mapper.DTO.csproj",
+        "projectUniqueName": "C:\\Users\\Incodeepth\\Documents\\GitHub\\MapperBenchmark\\Mapper.DTO\\Mapper.DTO.csproj",
         "projectName": "Mapper.DTO",
-        "projectPath": "C:\\Users\\serhat.aydus\\source\\repos\\MapperBenchmark\\Mapper\\Mapper.DTO\\Mapper.DTO.csproj",
-        "packagesPath": "C:\\Users\\serhat.aydus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\serhat.aydus\\source\\repos\\MapperBenchmark\\Mapper\\Mapper.DTO\\obj\\",
+        "projectPath": "C:\\Users\\Incodeepth\\Documents\\GitHub\\MapperBenchmark\\Mapper.DTO\\Mapper.DTO.csproj",
+        "packagesPath": "C:\\Users\\Incodeepth\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Incodeepth\\Documents\\GitHub\\MapperBenchmark\\Mapper.DTO\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\serhat.aydus\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Incodeepth\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://nexusmaster01.odeontechnology.com/repository/nuget-group/": {}
+          "D:\\Nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\serhat.aydus\\source\\repos\\MapperBenchmark\\Mapper\\Mapper.Models\\Mapper.Models.csproj": {
-                "projectPath": "C:\\Users\\serhat.aydus\\source\\repos\\MapperBenchmark\\Mapper\\Mapper.Models\\Mapper.Models.csproj"
+              "C:\\Users\\Incodeepth\\Documents\\GitHub\\MapperBenchmark\\Mapper.Models\\Mapper.Models.csproj": {
+                "projectPath": "C:\\Users\\Incodeepth\\Documents\\GitHub\\MapperBenchmark\\Mapper.Models\\Mapper.Models.csproj"
               }
             }
           }
@@ -62,40 +63,41 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\serhat.aydus\\source\\repos\\MapperBenchmark\\Mapper\\Mapper.Entity\\Mapper.Entity.csproj": {
+    "C:\\Users\\Incodeepth\\Documents\\GitHub\\MapperBenchmark\\Mapper.Entity\\Mapper.Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\serhat.aydus\\source\\repos\\MapperBenchmark\\Mapper\\Mapper.Entity\\Mapper.Entity.csproj",
+        "projectUniqueName": "C:\\Users\\Incodeepth\\Documents\\GitHub\\MapperBenchmark\\Mapper.Entity\\Mapper.Entity.csproj",
         "projectName": "Mapper.Entity",
-        "projectPath": "C:\\Users\\serhat.aydus\\source\\repos\\MapperBenchmark\\Mapper\\Mapper.Entity\\Mapper.Entity.csproj",
-        "packagesPath": "C:\\Users\\serhat.aydus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\serhat.aydus\\source\\repos\\MapperBenchmark\\Mapper\\Mapper.Entity\\obj\\",
+        "projectPath": "C:\\Users\\Incodeepth\\Documents\\GitHub\\MapperBenchmark\\Mapper.Entity\\Mapper.Entity.csproj",
+        "packagesPath": "C:\\Users\\Incodeepth\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Incodeepth\\Documents\\GitHub\\MapperBenchmark\\Mapper.Entity\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\serhat.aydus\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Incodeepth\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://nexusmaster01.odeontechnology.com/repository/nuget-group/": {}
+          "D:\\Nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\serhat.aydus\\source\\repos\\MapperBenchmark\\Mapper\\Mapper.Models\\Mapper.Models.csproj": {
-                "projectPath": "C:\\Users\\serhat.aydus\\source\\repos\\MapperBenchmark\\Mapper\\Mapper.Models\\Mapper.Models.csproj"
+              "C:\\Users\\Incodeepth\\Documents\\GitHub\\MapperBenchmark\\Mapper.Models\\Mapper.Models.csproj": {
+                "projectPath": "C:\\Users\\Incodeepth\\Documents\\GitHub\\MapperBenchmark\\Mapper.Models\\Mapper.Models.csproj"
               }
             }
           }
@@ -124,46 +126,47 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\serhat.aydus\\source\\repos\\MapperBenchmark\\Mapper\\Mapper.Logic\\Mapper.Logic.csproj": {
+    "C:\\Users\\Incodeepth\\Documents\\GitHub\\MapperBenchmark\\Mapper.Logic\\Mapper.Logic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\serhat.aydus\\source\\repos\\MapperBenchmark\\Mapper\\Mapper.Logic\\Mapper.Logic.csproj",
+        "projectUniqueName": "C:\\Users\\Incodeepth\\Documents\\GitHub\\MapperBenchmark\\Mapper.Logic\\Mapper.Logic.csproj",
         "projectName": "Mapper.Logic",
-        "projectPath": "C:\\Users\\serhat.aydus\\source\\repos\\MapperBenchmark\\Mapper\\Mapper.Logic\\Mapper.Logic.csproj",
-        "packagesPath": "C:\\Users\\serhat.aydus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\serhat.aydus\\source\\repos\\MapperBenchmark\\Mapper\\Mapper.Logic\\obj\\",
+        "projectPath": "C:\\Users\\Incodeepth\\Documents\\GitHub\\MapperBenchmark\\Mapper.Logic\\Mapper.Logic.csproj",
+        "packagesPath": "C:\\Users\\Incodeepth\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Incodeepth\\Documents\\GitHub\\MapperBenchmark\\Mapper.Logic\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\serhat.aydus\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Incodeepth\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://nexusmaster01.odeontechnology.com/repository/nuget-group/": {}
+          "D:\\Nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\serhat.aydus\\source\\repos\\MapperBenchmark\\Mapper\\Mapper.DTO\\Mapper.DTO.csproj": {
-                "projectPath": "C:\\Users\\serhat.aydus\\source\\repos\\MapperBenchmark\\Mapper\\Mapper.DTO\\Mapper.DTO.csproj"
+              "C:\\Users\\Incodeepth\\Documents\\GitHub\\MapperBenchmark\\Mapper.DTO\\Mapper.DTO.csproj": {
+                "projectPath": "C:\\Users\\Incodeepth\\Documents\\GitHub\\MapperBenchmark\\Mapper.DTO\\Mapper.DTO.csproj"
               },
-              "C:\\Users\\serhat.aydus\\source\\repos\\MapperBenchmark\\Mapper\\Mapper.Entity\\Mapper.Entity.csproj": {
-                "projectPath": "C:\\Users\\serhat.aydus\\source\\repos\\MapperBenchmark\\Mapper\\Mapper.Entity\\Mapper.Entity.csproj"
+              "C:\\Users\\Incodeepth\\Documents\\GitHub\\MapperBenchmark\\Mapper.Entity\\Mapper.Entity.csproj": {
+                "projectPath": "C:\\Users\\Incodeepth\\Documents\\GitHub\\MapperBenchmark\\Mapper.Entity\\Mapper.Entity.csproj"
               },
-              "C:\\Users\\serhat.aydus\\source\\repos\\MapperBenchmark\\Mapper\\Mapper.Models\\Mapper.Models.csproj": {
-                "projectPath": "C:\\Users\\serhat.aydus\\source\\repos\\MapperBenchmark\\Mapper\\Mapper.Models\\Mapper.Models.csproj"
+              "C:\\Users\\Incodeepth\\Documents\\GitHub\\MapperBenchmark\\Mapper.Models\\Mapper.Models.csproj": {
+                "projectPath": "C:\\Users\\Incodeepth\\Documents\\GitHub\\MapperBenchmark\\Mapper.Models\\Mapper.Models.csproj"
               }
             }
           }
@@ -192,33 +195,34 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\serhat.aydus\\source\\repos\\MapperBenchmark\\Mapper\\Mapper.Models\\Mapper.Models.csproj": {
+    "C:\\Users\\Incodeepth\\Documents\\GitHub\\MapperBenchmark\\Mapper.Models\\Mapper.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\serhat.aydus\\source\\repos\\MapperBenchmark\\Mapper\\Mapper.Models\\Mapper.Models.csproj",
+        "projectUniqueName": "C:\\Users\\Incodeepth\\Documents\\GitHub\\MapperBenchmark\\Mapper.Models\\Mapper.Models.csproj",
         "projectName": "Mapper.Models",
-        "projectPath": "C:\\Users\\serhat.aydus\\source\\repos\\MapperBenchmark\\Mapper\\Mapper.Models\\Mapper.Models.csproj",
-        "packagesPath": "C:\\Users\\serhat.aydus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\serhat.aydus\\source\\repos\\MapperBenchmark\\Mapper\\Mapper.Models\\obj\\",
+        "projectPath": "C:\\Users\\Incodeepth\\Documents\\GitHub\\MapperBenchmark\\Mapper.Models\\Mapper.Models.csproj",
+        "packagesPath": "C:\\Users\\Incodeepth\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Incodeepth\\Documents\\GitHub\\MapperBenchmark\\Mapper.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\serhat.aydus\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Incodeepth\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://nexusmaster01.odeontechnology.com/repository/nuget-group/": {}
+          "D:\\Nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
@@ -250,7 +254,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

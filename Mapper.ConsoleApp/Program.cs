@@ -177,8 +177,6 @@ namespace Mapper.ConsoleApp
         [Benchmark(Description = "ManuelMappingDataCount10", OperationsPerInvoke = 1)]
         public void ManuelMappingDataCount10()
         {
-            IMapper Mapper = new AgileMapperLibrary.Mapper();
-
             List<CustomerDto> customerDtos = new List<CustomerDto>();
             foreach (var item in MockData.Customer10)
             {
@@ -206,8 +204,6 @@ namespace Mapper.ConsoleApp
         [Benchmark(Description = "ManuelMappingDataCount100", OperationsPerInvoke = 1)]
         public void ManuelMappingDataCount100()
         {
-            IMapper Mapper = new AgileMapperLibrary.Mapper();
-
             List<CustomerDto> customerDtos = new List<CustomerDto>();
             foreach (var item in MockData.Customer100)
             {
@@ -235,8 +231,6 @@ namespace Mapper.ConsoleApp
         [Benchmark(Description = "ManuelMappingDataCount1000", OperationsPerInvoke = 1)]
         public void ManuelMappingDataCount1000()
         {
-            IMapper Mapper = new AgileMapperLibrary.Mapper();
-
             List<CustomerDto> customerDtos = new List<CustomerDto>();
             foreach (var item in MockData.Customer1000)
             {
@@ -264,8 +258,6 @@ namespace Mapper.ConsoleApp
         [Benchmark(Description = "ManuelMappingDataCount10000", OperationsPerInvoke = 1)]
         public void ManuelMappingDataCount10000()
         {
-            IMapper Mapper = new AgileMapperLibrary.Mapper();
-
             List<CustomerDto> customerDtos = new List<CustomerDto>();
             foreach (var item in MockData.Customer10000)
             {
@@ -295,8 +287,6 @@ namespace Mapper.ConsoleApp
         [Benchmark(Description = "ManuelLinqMappingDataCount10", OperationsPerInvoke = 1)]
         public void ManuelLinqMappingDataCount10()
         {
-            IMapper Mapper = new AgileMapperLibrary.Mapper();
-
             List<CustomerDto> customerDtos = new List<CustomerDto>();
 
             customerDtos.AddRange(MockData.Customer10.Select(item =>
@@ -323,8 +313,6 @@ namespace Mapper.ConsoleApp
         [Benchmark(Description = "ManuelLinqMappingDataCount100", OperationsPerInvoke = 1)]
         public void ManuelLinqMappingDataCount100()
         {
-            IMapper Mapper = new AgileMapperLibrary.Mapper();
-
             List<CustomerDto> customerDtos = new List<CustomerDto>();
 
             customerDtos.AddRange(MockData.Customer100.Select(item =>
@@ -351,8 +339,6 @@ namespace Mapper.ConsoleApp
         [Benchmark(Description = "ManuelLinqMappingDataCount1000", OperationsPerInvoke = 1)]
         public void ManuelLinqMappingDataCount1000()
         {
-            IMapper Mapper = new AgileMapperLibrary.Mapper();
-
             List<CustomerDto> customerDtos = new List<CustomerDto>();
 
             customerDtos.AddRange(MockData.Customer1000.Select(item =>
@@ -379,8 +365,6 @@ namespace Mapper.ConsoleApp
         [Benchmark(Description = "ManuelLinqMappingDataCount10000", OperationsPerInvoke = 1)]
         public void ManuelLinqMappingDataCount10000()
         {
-            IMapper Mapper = new AgileMapperLibrary.Mapper();
-
             List<CustomerDto> customerDtos = new List<CustomerDto>();
 
             customerDtos.AddRange(MockData.Customer10000.Select(item =>
