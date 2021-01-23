@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Mapper.DTO/1.0.0": {
+        "dependencies": {
+          "Mapper.Models": "1.0.0"
+        },
+        "runtime": {
+          "Mapper.DTO.dll": {}
+        }
+      },
+      "Mapper.Models/1.0.0": {
+        "runtime": {
+          "Mapper.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Mapper.DTO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Mapper.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

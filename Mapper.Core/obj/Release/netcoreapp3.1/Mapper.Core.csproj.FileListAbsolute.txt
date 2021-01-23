@@ -1,0 +1,9 @@
+C:\Users\serhat.aydus\source\repos\MapperBenchmark\Mapper\Mapper.Core\bin\Release\netcoreapp3.1\Mapper.Core.deps.json
+C:\Users\serhat.aydus\source\repos\MapperBenchmark\Mapper\Mapper.Core\bin\Release\netcoreapp3.1\Mapper.Core.dll
+C:\Users\serhat.aydus\source\repos\MapperBenchmark\Mapper\Mapper.Core\bin\Release\netcoreapp3.1\Mapper.Core.pdb
+C:\Users\serhat.aydus\source\repos\MapperBenchmark\Mapper\Mapper.Core\obj\Release\netcoreapp3.1\Mapper.Core.csprojAssemblyReference.cache
+C:\Users\serhat.aydus\source\repos\MapperBenchmark\Mapper\Mapper.Core\obj\Release\netcoreapp3.1\Mapper.Core.AssemblyInfoInputs.cache
+C:\Users\serhat.aydus\source\repos\MapperBenchmark\Mapper\Mapper.Core\obj\Release\netcoreapp3.1\Mapper.Core.AssemblyInfo.cs
+C:\Users\serhat.aydus\source\repos\MapperBenchmark\Mapper\Mapper.Core\obj\Release\netcoreapp3.1\Mapper.Core.csproj.CoreCompileInputs.cache
+C:\Users\serhat.aydus\source\repos\MapperBenchmark\Mapper\Mapper.Core\obj\Release\netcoreapp3.1\Mapper.Core.dll
+C:\Users\serhat.aydus\source\repos\MapperBenchmark\Mapper\Mapper.Core\obj\Release\netcoreapp3.1\Mapper.Core.pdb

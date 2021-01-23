@@ -1,0 +1,52 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Mapper.ExpressMapperLibrary/1.0.0": {
+        "dependencies": {
+          "Expressmapper": "1.9.1",
+          "Mapper.Core": "1.0.0"
+        },
+        "runtime": {
+          "Mapper.ExpressMapperLibrary.dll": {}
+        }
+      },
+      "Expressmapper/1.9.1": {
+        "runtime": {
+          "lib/net46/ExpressMapper.dll": {
+            "assemblyVersion": "1.9.1.0",
+            "fileVersion": "1.9.1.0"
+          }
+        }
+      },
+      "Mapper.Core/1.0.0": {
+        "runtime": {
+          "Mapper.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Mapper.ExpressMapperLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Expressmapper/1.9.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-FhtVjpMeLHoivk+qaYmOPGAKYJ44kYB1O3tG4mZXYFaPeHO26RuHpRUllhBm6L3vD0Edcd5iGiZhz+LJd3k5WQ==",
+      "path": "expressmapper/1.9.1",
+      "hashPath": "expressmapper.1.9.1.nupkg.sha512"
+    },
+    "Mapper.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

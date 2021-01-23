@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "0drTANYz3wXdMzr5CnKtK+QgV4lexU4xM4AWBWiCetZSRzNn3rmq7TkUh4MlIT2H+3I8fzbULIAZIO94hzRPGA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\serhat.aydus\\source\\repos\\MapperBenchmark\\Mapper\\Mapper.ExpressMapperLibrary\\Mapper.ExpressMapperLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\serhat.aydus\\.nuget\\packages\\expressmapper\\1.9.1\\expressmapper.1.9.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Expressmapper 1.9.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "Expressmapper",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}

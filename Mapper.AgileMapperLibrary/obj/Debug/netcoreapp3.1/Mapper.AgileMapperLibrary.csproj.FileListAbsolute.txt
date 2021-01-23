@@ -1,0 +1,12 @@
+C:\Users\serhat.aydus\source\repos\Mapper\Mapper.AgileMapperLibrary\bin\Debug\netcoreapp3.1\Mapper.AgileMapperLibrary.deps.json
+C:\Users\serhat.aydus\source\repos\Mapper\Mapper.AgileMapperLibrary\bin\Debug\netcoreapp3.1\Mapper.AgileMapperLibrary.dll
+C:\Users\serhat.aydus\source\repos\Mapper\Mapper.AgileMapperLibrary\bin\Debug\netcoreapp3.1\Mapper.AgileMapperLibrary.pdb
+C:\Users\serhat.aydus\source\repos\Mapper\Mapper.AgileMapperLibrary\obj\Debug\netcoreapp3.1\Mapper.AgileMapperLibrary.csprojAssemblyReference.cache
+C:\Users\serhat.aydus\source\repos\Mapper\Mapper.AgileMapperLibrary\obj\Debug\netcoreapp3.1\Mapper.AgileMapperLibrary.AssemblyInfoInputs.cache
+C:\Users\serhat.aydus\source\repos\Mapper\Mapper.AgileMapperLibrary\obj\Debug\netcoreapp3.1\Mapper.AgileMapperLibrary.AssemblyInfo.cs
+C:\Users\serhat.aydus\source\repos\Mapper\Mapper.AgileMapperLibrary\obj\Debug\netcoreapp3.1\Mapper.AgileMapperLibrary.csproj.CoreCompileInputs.cache
+C:\Users\serhat.aydus\source\repos\Mapper\Mapper.AgileMapperLibrary\obj\Debug\netcoreapp3.1\Mapper.AgileMapperLibrary.dll
+C:\Users\serhat.aydus\source\repos\Mapper\Mapper.AgileMapperLibrary\obj\Debug\netcoreapp3.1\Mapper.AgileMapperLibrary.pdb
+C:\Users\serhat.aydus\source\repos\Mapper\Mapper.AgileMapperLibrary\bin\Debug\netcoreapp3.1\Mapper.Core.dll
+C:\Users\serhat.aydus\source\repos\Mapper\Mapper.AgileMapperLibrary\bin\Debug\netcoreapp3.1\Mapper.Core.pdb
+C:\Users\serhat.aydus\source\repos\Mapper\Mapper.AgileMapperLibrary\obj\Debug\netcoreapp3.1\Mapper.AgileMapperLibrary.csproj.CopyComplete

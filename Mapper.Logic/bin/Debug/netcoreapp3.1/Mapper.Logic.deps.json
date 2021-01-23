@@ -1,0 +1,64 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Mapper.Logic/1.0.0": {
+        "dependencies": {
+          "Mapper.DTO": "1.0.0",
+          "Mapper.Entity": "1.0.0",
+          "Mapper.Models": "1.0.0"
+        },
+        "runtime": {
+          "Mapper.Logic.dll": {}
+        }
+      },
+      "Mapper.DTO/1.0.0": {
+        "dependencies": {
+          "Mapper.Models": "1.0.0"
+        },
+        "runtime": {
+          "Mapper.DTO.dll": {}
+        }
+      },
+      "Mapper.Entity/1.0.0": {
+        "dependencies": {
+          "Mapper.Models": "1.0.0"
+        },
+        "runtime": {
+          "Mapper.Entity.dll": {}
+        }
+      },
+      "Mapper.Models/1.0.0": {
+        "runtime": {
+          "Mapper.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Mapper.Logic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Mapper.DTO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Mapper.Entity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Mapper.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

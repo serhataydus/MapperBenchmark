@@ -1,0 +1,9 @@
+C:\Users\serhat.aydus\source\repos\Mapper\Mapper.Models\bin\Debug\netcoreapp3.1\Mapper.Models.deps.json
+C:\Users\serhat.aydus\source\repos\Mapper\Mapper.Models\bin\Debug\netcoreapp3.1\Mapper.Models.dll
+C:\Users\serhat.aydus\source\repos\Mapper\Mapper.Models\bin\Debug\netcoreapp3.1\Mapper.Models.pdb
+C:\Users\serhat.aydus\source\repos\Mapper\Mapper.Models\obj\Debug\netcoreapp3.1\Mapper.Models.AssemblyInfoInputs.cache
+C:\Users\serhat.aydus\source\repos\Mapper\Mapper.Models\obj\Debug\netcoreapp3.1\Mapper.Models.AssemblyInfo.cs
+C:\Users\serhat.aydus\source\repos\Mapper\Mapper.Models\obj\Debug\netcoreapp3.1\Mapper.Models.csproj.CoreCompileInputs.cache
+C:\Users\serhat.aydus\source\repos\Mapper\Mapper.Models\obj\Debug\netcoreapp3.1\Mapper.Models.dll
+C:\Users\serhat.aydus\source\repos\Mapper\Mapper.Models\obj\Debug\netcoreapp3.1\Mapper.Models.pdb
+C:\Users\serhat.aydus\source\repos\Mapper\Mapper.Models\obj\Debug\netcoreapp3.1\Mapper.Models.csprojAssemblyReference.cache

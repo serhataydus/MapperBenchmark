@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Mapper.DTO\Mapper.DTO.csproj" />
+    <ProjectReference Include="..\Mapper.Entity\Mapper.Entity.csproj" />
+    <ProjectReference Include="..\Mapper.Models\Mapper.Models.csproj" />
+  </ItemGroup>
+
+</Project>

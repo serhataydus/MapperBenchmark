@@ -1,0 +1,12 @@
+C:\Users\serhat.aydus\source\repos\Mapper\Mapper.Entity\bin\Debug\netcoreapp3.1\Mapper.Entity.deps.json
+C:\Users\serhat.aydus\source\repos\Mapper\Mapper.Entity\bin\Debug\netcoreapp3.1\Mapper.Entity.dll
+C:\Users\serhat.aydus\source\repos\Mapper\Mapper.Entity\bin\Debug\netcoreapp3.1\Mapper.Entity.pdb
+C:\Users\serhat.aydus\source\repos\Mapper\Mapper.Entity\obj\Debug\netcoreapp3.1\Mapper.Entity.AssemblyInfoInputs.cache
+C:\Users\serhat.aydus\source\repos\Mapper\Mapper.Entity\obj\Debug\netcoreapp3.1\Mapper.Entity.AssemblyInfo.cs
+C:\Users\serhat.aydus\source\repos\Mapper\Mapper.Entity\obj\Debug\netcoreapp3.1\Mapper.Entity.csproj.CoreCompileInputs.cache
+C:\Users\serhat.aydus\source\repos\Mapper\Mapper.Entity\obj\Debug\netcoreapp3.1\Mapper.Entity.dll
+C:\Users\serhat.aydus\source\repos\Mapper\Mapper.Entity\obj\Debug\netcoreapp3.1\Mapper.Entity.pdb
+C:\Users\serhat.aydus\source\repos\Mapper\Mapper.Entity\bin\Debug\netcoreapp3.1\Mapper.Models.dll
+C:\Users\serhat.aydus\source\repos\Mapper\Mapper.Entity\bin\Debug\netcoreapp3.1\Mapper.Models.pdb
+C:\Users\serhat.aydus\source\repos\Mapper\Mapper.Entity\obj\Debug\netcoreapp3.1\Mapper.Entity.csprojAssemblyReference.cache
+C:\Users\serhat.aydus\source\repos\Mapper\Mapper.Entity\obj\Debug\netcoreapp3.1\Mapper.Entity.csproj.CopyComplete

@@ -1,0 +1,12 @@
+C:\Users\serhat.aydus\source\repos\Mapper\Mapper.MapsterLibrary\bin\Debug\netcoreapp3.1\Mapper.MapsterLibrary.deps.json
+C:\Users\serhat.aydus\source\repos\Mapper\Mapper.MapsterLibrary\bin\Debug\netcoreapp3.1\Mapper.MapsterLibrary.dll
+C:\Users\serhat.aydus\source\repos\Mapper\Mapper.MapsterLibrary\bin\Debug\netcoreapp3.1\Mapper.MapsterLibrary.pdb
+C:\Users\serhat.aydus\source\repos\Mapper\Mapper.MapsterLibrary\bin\Debug\netcoreapp3.1\Mapper.Core.dll
+C:\Users\serhat.aydus\source\repos\Mapper\Mapper.MapsterLibrary\bin\Debug\netcoreapp3.1\Mapper.Core.pdb
+C:\Users\serhat.aydus\source\repos\Mapper\Mapper.MapsterLibrary\obj\Debug\netcoreapp3.1\Mapper.MapsterLibrary.csprojAssemblyReference.cache
+C:\Users\serhat.aydus\source\repos\Mapper\Mapper.MapsterLibrary\obj\Debug\netcoreapp3.1\Mapper.MapsterLibrary.AssemblyInfoInputs.cache
+C:\Users\serhat.aydus\source\repos\Mapper\Mapper.MapsterLibrary\obj\Debug\netcoreapp3.1\Mapper.MapsterLibrary.AssemblyInfo.cs
+C:\Users\serhat.aydus\source\repos\Mapper\Mapper.MapsterLibrary\obj\Debug\netcoreapp3.1\Mapper.MapsterLibrary.csproj.CoreCompileInputs.cache
+C:\Users\serhat.aydus\source\repos\Mapper\Mapper.MapsterLibrary\obj\Debug\netcoreapp3.1\Mapper.MapsterLibrary.csproj.CopyComplete
+C:\Users\serhat.aydus\source\repos\Mapper\Mapper.MapsterLibrary\obj\Debug\netcoreapp3.1\Mapper.MapsterLibrary.dll
+C:\Users\serhat.aydus\source\repos\Mapper\Mapper.MapsterLibrary\obj\Debug\netcoreapp3.1\Mapper.MapsterLibrary.pdb
