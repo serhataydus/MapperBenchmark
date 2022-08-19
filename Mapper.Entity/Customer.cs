@@ -1,5 +1,4 @@
-﻿using Mapper.Models;
-using Mapper.Models.Enums;
+﻿using Mapper.Models.Enums;
 
 namespace Mapper.Entity
 {

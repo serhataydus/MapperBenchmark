@@ -5,8 +5,8 @@
 		<Nullable>enable</Nullable>
 	</PropertyGroup>
 	<ItemGroup>
+		<ProjectReference Include="..\Mapper.Core\Mapper.Core.csproj" />
 		<ProjectReference Include="..\Mapper.DTO\Mapper.DTO.csproj" />
 		<ProjectReference Include="..\Mapper.Entity\Mapper.Entity.csproj" />
-		<ProjectReference Include="..\Mapper.Models\Mapper.Models.csproj" />
 	</ItemGroup>
 </Project>

@@ -8,10 +8,10 @@ namespace Mapper.AutoMapperLibrary.Profiles
     {
         public CustomerProfile()
         {
-            CreateMap<CustomerDto, Customer>();
-            CreateMap<Customer, CustomerDto>();
-            CreateMap<AddressDto, Address>();
-            CreateMap<Address, AddressDto>();
+            _ = CreateMap<CustomerDto, Customer>();
+            _ = CreateMap<Customer, CustomerDto>();
+            _ = CreateMap<AddressDto, Address>();
+            _ = CreateMap<Address, AddressDto>();
         }
     }
 }

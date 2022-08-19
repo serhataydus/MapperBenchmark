@@ -1,23 +1,21 @@
-﻿using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using Mapper.Entity;
+﻿using Mapper.Entity;
 using Mapper.Models.Enums;
 
-// 10, 100, 1000, 10000 ve 100000
+// 1, 10, 100, 1000, 10000 ve 100000
 
 namespace Mapper.Logic
 {
     public class MockData
     {
-        public static List<Customer> Customers;
+        private static List<Customer> Customers;
+
         public static Customer Customer;
         public static List<Customer> Customer10;
         public static List<Customer> Customer100;
         public static List<Customer> Customer1000;
         public static List<Customer> Customer10000;
 
-        public void CreateMockData()
+        public static void CreateMockData()
         {
             Customers = new List<Customer>();
             for (int i = 0; i < 10000; i++)

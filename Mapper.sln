@@ -1,13 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.30717.126
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mapper.Core", "Mapper.Core\Mapper.Core.csproj", "{B0DB2010-D112-416A-9F84-37EA014C1E3C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mapper.Core", "Mapper.Core\Mapper.Core.csproj", "{B0DB2010-D112-416A-9F84-37EA014C1E3C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mapper.Entity", "Mapper.Entity\Mapper.Entity.csproj", "{574DAFA8-EA21-4687-B17F-6644C5A36B93}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mapper.Entity", "Mapper.Entity\Mapper.Entity.csproj", "{574DAFA8-EA21-4687-B17F-6644C5A36B93}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mapper.DTO", "Mapper.DTO\Mapper.DTO.csproj", "{BE67D187-D72A-47CF-A50A-150F7B704BAA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mapper.DTO", "Mapper.DTO\Mapper.DTO.csproj", "{BE67D187-D72A-47CF-A50A-150F7B704BAA}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Models", "Models", "{F946A553-C2AC-4F59-9668-06DA3A761513}"
 EndProject
@@ -15,23 +15,27 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{B2632153-0
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Libraries", "Libraries", "{5D7512A6-4A8D-48DD-8F3C-D46211A1D9AA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mapper.AutoMapperLibrary", "Mapper.AutoMapperLibrary\Mapper.AutoMapperLibrary.csproj", "{ED6C7F93-7348-4376-AD63-28E562D37EDA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mapper.AutoMapperLibrary", "Mapper.AutoMapperLibrary\Mapper.AutoMapperLibrary.csproj", "{ED6C7F93-7348-4376-AD63-28E562D37EDA}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Apps", "Apps", "{39436559-FD58-46AB-BD7E-53E23D3DFCD6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mapper.MapsterLibrary", "Mapper.MapsterLibrary\Mapper.MapsterLibrary.csproj", "{93877698-1CF5-414A-AAEE-525486E95145}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mapper.MapsterLibrary", "Mapper.MapsterLibrary\Mapper.MapsterLibrary.csproj", "{93877698-1CF5-414A-AAEE-525486E95145}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mapper.AgileMapperLibrary", "Mapper.AgileMapperLibrary\Mapper.AgileMapperLibrary.csproj", "{F52D1EF8-9138-49FC-B324-895500F764EC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mapper.AgileMapperLibrary", "Mapper.AgileMapperLibrary\Mapper.AgileMapperLibrary.csproj", "{F52D1EF8-9138-49FC-B324-895500F764EC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mapper.ExpressMapperLibrary", "Mapper.ExpressMapperLibrary\Mapper.ExpressMapperLibrary.csproj", "{AB2B2A8C-E151-49BB-B255-2ECBA6119322}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mapper.ExpressMapperLibrary", "Mapper.ExpressMapperLibrary\Mapper.ExpressMapperLibrary.csproj", "{AB2B2A8C-E151-49BB-B255-2ECBA6119322}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mapper.Logic", "Mapper.Logic\Mapper.Logic.csproj", "{EC07469E-F3AA-4B14-B5F2-E8009023FFB9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mapper.Logic", "Mapper.Logic\Mapper.Logic.csproj", "{EC07469E-F3AA-4B14-B5F2-E8009023FFB9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mapper.TinyMapperLibrary", "Mapper.TinyMapperLibrary\Mapper.TinyMapperLibrary.csproj", "{15C0CE80-BF64-48FE-8BC2-5B00BD7E93E8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mapper.TinyMapperLibrary", "Mapper.TinyMapperLibrary\Mapper.TinyMapperLibrary.csproj", "{15C0CE80-BF64-48FE-8BC2-5B00BD7E93E8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mapper.Models", "Mapper.Models\Mapper.Models.csproj", "{D7FB0A83-EF1F-4F72-9A30-1F210CD12FDE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mapper.Models", "Mapper.Models\Mapper.Models.csproj", "{D7FB0A83-EF1F-4F72-9A30-1F210CD12FDE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mapper.ConsoleApp", "Mapper.ConsoleApp\Mapper.ConsoleApp.csproj", "{A9AA6130-2197-4267-9762-4A53E9EF8CB7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mapper.ConsoleApp", "Mapper.ConsoleApp\Mapper.ConsoleApp.csproj", "{A9AA6130-2197-4267-9762-4A53E9EF8CB7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mapper.SystemLinqLibrary", "Mapper.SystemLinqLibrary\Mapper.SystemLinqLibrary.csproj", "{C196088B-7D50-432E-884C-624FA42D7069}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mapper.CustomMapperLibrary", "Mapper.CustomMapperLibrary\Mapper.CustomMapperLibrary.csproj", "{1CB8511D-0818-4EB4-A1BF-2F9EE6AFA47C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -83,6 +87,14 @@ Global
 		{A9AA6130-2197-4267-9762-4A53E9EF8CB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A9AA6130-2197-4267-9762-4A53E9EF8CB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A9AA6130-2197-4267-9762-4A53E9EF8CB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C196088B-7D50-432E-884C-624FA42D7069}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C196088B-7D50-432E-884C-624FA42D7069}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C196088B-7D50-432E-884C-624FA42D7069}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C196088B-7D50-432E-884C-624FA42D7069}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CB8511D-0818-4EB4-A1BF-2F9EE6AFA47C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CB8511D-0818-4EB4-A1BF-2F9EE6AFA47C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CB8511D-0818-4EB4-A1BF-2F9EE6AFA47C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CB8511D-0818-4EB4-A1BF-2F9EE6AFA47C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -99,6 +111,8 @@ Global
 		{15C0CE80-BF64-48FE-8BC2-5B00BD7E93E8} = {5D7512A6-4A8D-48DD-8F3C-D46211A1D9AA}
 		{D7FB0A83-EF1F-4F72-9A30-1F210CD12FDE} = {F946A553-C2AC-4F59-9668-06DA3A761513}
 		{A9AA6130-2197-4267-9762-4A53E9EF8CB7} = {39436559-FD58-46AB-BD7E-53E23D3DFCD6}
+		{C196088B-7D50-432E-884C-624FA42D7069} = {5D7512A6-4A8D-48DD-8F3C-D46211A1D9AA}
+		{1CB8511D-0818-4EB4-A1BF-2F9EE6AFA47C} = {5D7512A6-4A8D-48DD-8F3C-D46211A1D9AA}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {6B2429CF-ACBD-4831-B27D-30CF25C6C318}
