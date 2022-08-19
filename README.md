@@ -11,6 +11,7 @@
 
 # 3 consecutive results
 
+```javascript
 1. Result :
 |                  Method |       Mean | Error |        Min |        Max |     Median |   Allocated |
 |------------------------ |-----------:|------:|-----------:|-----------:|-----------:|------------:|
@@ -127,3 +128,4 @@
 | ExpressMapperCount10000 |  77.949 ms |    NA |  77.949 ms |  77.949 ms |  77.949 ms | 1,463,808 B |
 | MapsterMapperCount10000 |  62.072 ms |    NA |  62.072 ms |  62.072 ms |  62.072 ms | 1,200,440 B |
 |    TinyMapperCount10000 |   5.111 ms |    NA |   5.111 ms |   5.111 ms |   5.111 ms | 1,862,880 B |
+```
